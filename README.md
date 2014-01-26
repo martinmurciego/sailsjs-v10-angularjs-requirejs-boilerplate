@@ -43,5 +43,9 @@ views/
 	index/
 		index.html
 ```
+
 ##Backend
 The idea is to dev your API like you normally would in sailsJs, and then do all your frontend work in the assets folders. The only time you'd utilize sailsJs's .ejs views is if you wanted to do non SPA pages like an admin panel, or authentication panels (even then, you can handle auth in angular if you like).
+
+##Production ready?
+Well right now sailsjs 0.10 is in beta, that aside a grunt task or two needs to be written to concat all the requirejs libs into single files, and cleanup all the angular files if you like. But this isn't required.
