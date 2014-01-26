@@ -1,5 +1,5 @@
 {
-  "name": "dlrrphoenix.org",
+  "name": "sailsjs-v10-angularjs-requirejs-boilerplate",
   "private": true,
   "version": "0.0.0",
   "description": "a Sails application",
@@ -27,7 +27,7 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mikedevita/dlrrphoenix.org.git"
+    "url": "git://github.com/mikedevita/sailsjs-v10-angularjs-requirejs-boilerplate.git"
   },
   "author": "mikedevita",
   "license": ""
