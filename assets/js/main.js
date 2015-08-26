@@ -10,7 +10,7 @@ require.config({
         'angular.route': '../lib/angular-route/angular-route',
         'angular.resource': '../lib/angular-resource/angular-resource',
         'angular.ui.bootstrap': '../lib/angular-bootstrap/ui-bootstrap-tpls',
-        'jquery': '../lib/jquery/jquery',
+        'jquery': '../lib/jquery/dist/jquery',
         'bootstrapJs': '../lib/bootstrap/dist/js/bootstrap',
         'holderJs': '../lib/holderjs/holder'
     },

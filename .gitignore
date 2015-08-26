@@ -114,3 +114,6 @@ npm-debug.log
 .netbeans
 nbproject
 .idea
+.node_history
+assets/lib
+.nbrun
